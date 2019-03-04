@@ -1,6 +1,6 @@
 # GKeep
 
-*Author:- Krishna Bhamare.
+*Author:- Krishna Bhamare*
 
 ## Development server
 
