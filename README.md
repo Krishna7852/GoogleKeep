@@ -5,6 +5,7 @@
 ## Step To Run Development server
 
 - `git clone https://github.com/Krishna7852/GoogleKeep.git`
+- `cd GoogleKeep`
 - `npm install`
 - `ng serve`
 ## Code scaffolding
